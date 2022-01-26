@@ -1,0 +1,23 @@
+<objects>
+  <object id = "SUBSTITUTION_VAR">
+    <value>X</value>
+  </object>
+  <object id = "PFD_VAR">
+    <value>A</value>
+  </object>
+  <object id = "FREE_INTEGER_PARAMETER_VAR">
+    <value>K</value>
+  </object>
+  <object id = "FREE_REAL_PARAMETER_VAR">
+    <value>T</value>
+  </object>
+  <object id = "FREE_INTEGRATION_CONSTANT_VAR">
+    <value>C</value>
+  </object>
+  <object id = "SELFDEFINEDFUNCTION_VAR">
+    <value>U</value>
+  </object>
+  <object id = "AXIS_VAR">
+    <value>Y</value>
+  </object>
+</objects>

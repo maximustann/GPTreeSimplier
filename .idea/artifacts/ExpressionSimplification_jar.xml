@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExpressionSimplification:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExpressionSimplification_jar</output-path>
+    <root id="archive" name="ExpressionSimplification.jar">
+      <element id="module-output" name="ExpressionSimplification" />
+      <element id="library" level="project" name="R User Library" />
+      <element id="library" level="application" name="R Skeletons" />
+    </root>
+  </artifact>
+</component>

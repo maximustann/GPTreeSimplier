@@ -1,0 +1,79 @@
+<objects>
+<!-- MathToolForm -->    
+  <object id = "BOUND_COMMAND_MAX_DIGITS_OF_E">
+    <value>100000</value>
+  </object>
+  <object id = "BOUND_COMMAND_MAX_DIGITS_OF_PI">
+    <value>100000</value>
+  </object>
+  <object id = "BOUND_ARITHMETIC_DIVISORS_OF_INTEGERS">
+    <value>1000000</value>
+  </object>
+  <object id = "BOUND_ARITHMETIC_MAX_POWER_OF_RATIONALS">
+    <value>10000</value>
+  </object>
+  <object id = "BOUND_ARITHMETIC_MAX_ROOTDEGREE_OF_RATIONALS">
+    <value>10000</value>
+  </object>
+  <object id = "BOUND_ARITHMETIC_MAX_INTEGER_FACTORIAL">
+    <value>10000</value>
+  </object>
+  <object id = "BOUND_ARITHMETIC_MAX_FACTORIAL_WITH_DENOMINATOR_TWO">
+    <value>20000</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_ROOTDEGREE_OF_SUMMAND_WITHIN_BINOMIAL">
+    <value>5</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_POWER_OF_BINOMIAL">
+    <value>100</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_DEGREE_OF_COMMON_ROOT">
+    <value>100</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_POWER_OF_TWO_FOR_COMPUTING_VALUES_OF_TRIGONOMETRICAL_FUNCTIONS">
+    <value>5</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_NUMBER_OF_SUMMANDS_IN_POWERFUL_EXPANSION">
+    <value>1000</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_NUMBER_OF_SUMMANDS_IN_MODERATE_EXPANSION">
+    <value>50</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_NUMBER_OF_SUMMANDS_IN_SHORT_EXPANSION">
+    <value>10</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_DEGREE_OF_POLYNOMIAL">
+    <value>100</value>
+  </object>
+  <object id = "BOUND_ALGEBRA_MAX_DEGREE_OF_POLYNOMIAL_FOR_DECOMPOSITION">
+    <value>4</value>
+  </object>
+  <object id = "BOUND_OPERATOR_MAX_DEGREE_OF_POLYNOMIAL_INSIDE_SUM">
+    <value>100</value>
+  </object>
+  <object id = "BOUND_OPERATOR_MAX_NUMBER_OF_MEMBERS_IN_SUM_OR_PRODUCT">
+    <value>1000</value>
+  </object>
+  <object id = "BOUND_OPERATOR_MAX_INTEGRABLE_POWER">
+    <value>100</value>
+  </object>
+  <object id = "BOUND_OPERATOR_MAX_NUMBER_OF_INTEGRABLE_SUMMANDS">
+    <value>500</value>
+  </object>
+  <object id = "BOUND_MATRIX_MAX_POWER_OF_GENERAL_MATRIX">
+    <value>10</value>
+  </object>
+  <object id = "BOUND_MATRIX_MAX_POWER_OF_RATIONAL_MATRIX">
+    <value>100</value>
+  </object>
+  <object id = "BOUND_MATRIX_MAX_DIM_FOR_COMPUTE_DET_EXPLICITELY">
+    <value>6</value>
+  </object>
+  <object id = "BOUND_NUMERIC_DEFAULT_NUMBER_OF_INTERVALS">
+    <value>10000</value>
+  </object>
+  <object id = "BOUND_NUMERIC_MAX_OPERATOR_NORM_TO_COMPUTE_MATRIX_FUNCTION">
+    <value>20</value>
+  </object>
+  
+</objects>
